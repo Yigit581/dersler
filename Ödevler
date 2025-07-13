@@ -1,0 +1,11 @@
+3 renk paleti seçlip listeye koyulacak(isim verilebilir)
+optionmenude renk değiştirebilme seçeneği
+onaylama butonu 
+
+ders 5 ödevi: entryle kullanıcıdan renk al arka planı alınan renge göre değiştir 
+entry ile tekerlek sayı al tekerlek sayısına göre arabasını tahmin et 
+entry ile bir hayvanın ayak sayısını al ve alının ayak sayısına göre hayvanı tahmin et 
+
+ders 6 ödevi: buton ekle görevi girilen sayı kadar şifre üreticek en az 1 tane küçük harf, 1 büyük harf , 1 rakam 
+
+ders 7 ödevi: buton ekle görevi text boxtaki boyutunu bulmak yani karakterlerin sayısını 
