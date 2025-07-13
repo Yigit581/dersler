@@ -7,7 +7,10 @@ root = tk.Tk()
 root.title("StringVar, IntVar Projesi")
 root.geometry("300x400")
 
-sayi = tk.IntVar()
-sayi.set(1)
+sayi_var = tk.IntVar()
+sayi_var.set(1)
+
+entry = tk.Entry(root, textvariable= sayi_var).pack(pady=10)
+label = tk.Label(root, textvariable= sayi_var).pack(pady=10)
 
 root.mainloop()
