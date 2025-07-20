@@ -27,6 +27,7 @@ label.pack(pady=10)
 metin_kutusu = tk.Text(root, height=10, width=40)
 metin_kutusu.pack(pady=10)
 
-
+button = tk.Button(root, text= "Kaydet", command= kaydet)
+button.pack(pady=10)
 
 root.mainloop()
